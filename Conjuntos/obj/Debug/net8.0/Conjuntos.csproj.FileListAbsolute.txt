@@ -1,0 +1,14 @@
+C:\Temp\Projetos C#\Conjuntos\Conjuntos\obj\Debug\net8.0\Conjuntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos C#\Conjuntos\Conjuntos\obj\Debug\net8.0\Conjuntos.AssemblyInfoInputs.cache
+C:\Temp\Projetos C#\Conjuntos\Conjuntos\obj\Debug\net8.0\Conjuntos.AssemblyInfo.cs
+C:\Temp\Projetos C#\Conjuntos\Conjuntos\obj\Debug\net8.0\Conjuntos.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos C#\Conjuntos\Conjuntos\bin\Debug\net8.0\Conjuntos.exe
+C:\Temp\Projetos C#\Conjuntos\Conjuntos\bin\Debug\net8.0\Conjuntos.deps.json
+C:\Temp\Projetos C#\Conjuntos\Conjuntos\bin\Debug\net8.0\Conjuntos.runtimeconfig.json
+C:\Temp\Projetos C#\Conjuntos\Conjuntos\bin\Debug\net8.0\Conjuntos.dll
+C:\Temp\Projetos C#\Conjuntos\Conjuntos\bin\Debug\net8.0\Conjuntos.pdb
+C:\Temp\Projetos C#\Conjuntos\Conjuntos\obj\Debug\net8.0\Conjuntos.dll
+C:\Temp\Projetos C#\Conjuntos\Conjuntos\obj\Debug\net8.0\refint\Conjuntos.dll
+C:\Temp\Projetos C#\Conjuntos\Conjuntos\obj\Debug\net8.0\Conjuntos.pdb
+C:\Temp\Projetos C#\Conjuntos\Conjuntos\obj\Debug\net8.0\Conjuntos.genruntimeconfig.cache
+C:\Temp\Projetos C#\Conjuntos\Conjuntos\obj\Debug\net8.0\ref\Conjuntos.dll
